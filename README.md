@@ -1,4 +1,4 @@
-this is pretty much the std::sort algorithm but implemented in c and actually beat std::sort because c is lowkey just better
+
 
 quicksort implementation : median of three pivot selection hoare's partition selection 
 
